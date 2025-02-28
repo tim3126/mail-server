@@ -41,7 +41,7 @@ main() {
     fi
 
     # Read arguments
-    local _dir="/opt/stalwart-mail"
+    local _dir="/www/wwwroot/mail.666000.de"
 
     # Default component setting
     local _component="stalwart-mail"
